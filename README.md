@@ -19,3 +19,4 @@ Este proyecto consiste en el diseño e implementación de un sistema de control 
 1. Descargar los archivos de la carpeta `/Simulacion`.
 2. Abrir con Proteus 8.x o superior.
 3. Consultar el PDF en `/Documentacion` para ver los cálculos de diseño.
+4. Consultar diseño de la pcb en `/PCB` para ver el diseño fisico en KiCad.
